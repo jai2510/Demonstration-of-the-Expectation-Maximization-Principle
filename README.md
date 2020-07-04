@@ -18,3 +18,5 @@ The EM algorithm (and its faster variant ordered subset expectation maximization
 
 In structural engineering, the Structural Identification using Expectation Maximization (STRIDE) algorithm is an output-only method for identifying natural vibration properties of a structural system using sensor data (see Operational Modal Analysis).
 
+
+Here, I demonstrate this principle on the Simple Binomial Coin-Toss distribution.
