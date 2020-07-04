@@ -14,6 +14,7 @@ In psychometrics, EM is almost indispensable for estimating item parameters and 
 
 With the ability to deal with missing data and observe unidentified variables, EM is becoming a useful tool to price and manage risk of a portfolio.
 
-The EM algorithm (and its faster variant ordered subset expectation maximization) is also widely used in medical image reconstruction, especially in positron emission tomography, single photon emission computed tomography, and x-ray computed tomography. See below for other faster variants of EM.
+The EM algorithm (and its faster variant ordered subset expectation maximization) is also widely used in medical image reconstruction, especially in positron emission tomography, single photon emission computed tomography, and X-ray computed tomography. See below for other faster variants of EM.
 
 In structural engineering, the Structural Identification using Expectation Maximization (STRIDE) algorithm is an output-only method for identifying natural vibration properties of a structural system using sensor data (see Operational Modal Analysis).
+
